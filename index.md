@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to ZhuYu
 
 You can use the [editor on GitHub](https://github.com/spring0010/zhuyu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
